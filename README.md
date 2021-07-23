@@ -25,3 +25,5 @@
 ```
 You can find in tests :)
 ```
+### License
+MIT
